@@ -1,0 +1,77 @@
+header{
+    width: 98.5%;
+    height: 100PX;
+    color: white;
+    background-color: rgb(81, 81, 227);
+    padding-top: 50px;
+    padding-left: 20px;
+    font-weight: 700;
+}
+nav{
+    width: 80%;
+    height: 1000px;
+    border: 1px solid black;
+    margin-left: 230px;
+}
+#left{
+    width: 20%;
+    height: 700px;
+    background-color: white;
+    float: left;
+}
+#main{
+    width: 50%;
+    height: 200px;
+    background-color: greenyellow;
+    text-align: center;
+    font-weight: 700;
+    float: left;
+    padding-top: 160px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+   
+}
+#slidebar{
+
+ width: 10%;
+    height: 200px;
+    background-color: rgb(90, 246, 217);
+    text-align: center;
+    font-weight: 700;
+    float: left;
+    padding-top: 160px;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#twin1{
+    width: 25%;
+    height: 195px;
+    background-color: rgba(127, 20, 242, 0.782);
+    text-align: center;
+    font-weight: 700;
+    float: left;
+    padding-top: 160px;
+}
+#twin2{
+    width: 35%;
+    height: 195px;
+    background-color: rgba(240, 221, 43, 0.968);
+    text-align: center;
+    font-weight: 700;
+    float: left;
+    padding-top: 160px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+footer{
+    width: 98.9;
+    height: 50PX;
+    color: white;
+    background-color: rgb(81, 81, 227);
+    padding-top: 50px;
+    padding-left: 20px;
+    font-weight: 700;
+    clear: both;
+    
+}
